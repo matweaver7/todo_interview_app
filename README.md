@@ -2,7 +2,7 @@
 
 NODE
 NPM
-PTYHON (You might need python2)
+Python
 Port 7000 needs to be available
 
 You'll also need the PYTHON environment variable set correctly.
