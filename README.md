@@ -9,11 +9,11 @@ You'll also need the PYTHON environment variable set correctly.
 
 # Installation
 
-```npm install``
+`npm install`
 
 # Setup
 
-```npm run start:dev```
+`npm run start:dev`
 
 # Instructions
 Build a todo app using the provided repo (this one). You need to be able to add, remove and "mark as complete" items in the todo list.
@@ -24,8 +24,8 @@ When you hit the "checkmark" (note that this can also be a button not necessairl
 
 The order of this should operate like a queue. (FIFO)
 
-![Base Example](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Base Example](https://github.com/matweaver7/todo_interview_app/blob/main/readme_images/base_todo.png?raw=true)
 
 
-![Item Checked off](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Item Checked off](https://github.com/matweaver7/todo_interview_app/blob/main/readme_images/todo_checked.png?raw=true)
 
