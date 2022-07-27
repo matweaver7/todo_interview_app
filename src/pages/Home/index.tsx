@@ -1,7 +1,6 @@
 import * as React from "react";
 import DefaultLayout from "@components/layout/defaultLayout";
 import { Container, Row } from "react-bootstrap";
-import { Route } from "react-router-dom";
 
 export default () => {
   return (

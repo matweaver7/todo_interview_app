@@ -10,7 +10,7 @@ const Router = (): JSX.Element => (
   <BrowserRouter>
     <Routes>
       <Route path={ROUTE.HOME} element={ <Home />} />
-      <Route path={ROUTE.NOT_FOUND} element={<NotFound />} />
+      <Route path={ROUTE.NOT_FOUND} element={ <NotFound /> } />
       <Route path ="*" element={<Navigate to={ROUTE.NOT_FOUND} replace />} />
     </Routes>
   </BrowserRouter>
