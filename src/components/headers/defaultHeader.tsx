@@ -1,6 +1,6 @@
 import * as React from "react";
 import Menu from "@components/menu";
-import { Navbar, Container} from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 
 const defaultHeader = () => {
     return (
