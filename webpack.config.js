@@ -75,7 +75,7 @@ module.exports = {
 		alias: {
 			"@components": path.resolve(__dirname, "src/components"),
 			"@constants": path.resolve(__dirname, "src/constants"),
-			"@enums": path.resolve(__dirname, "src/enums"),
+			"@enums": path.resolve(__dirname, "src/constants/enums"),
 			"@pages": path.resolve(__dirname, "src/pages"),
 		}
 	}
