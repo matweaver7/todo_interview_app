@@ -25,6 +25,7 @@ Required Functionality:
 2. A "submit" button that adds items to the top of the to-do list when clicked.
 3. A "remove" button that removes items from off the bottom of the to-do list when clicked.
 4. Each to-do item should have a way of marking it as done (the checkmark in the examples). When clicked it marks the item as complete and changes the to-do items text to be crossed out.
+5. Must be written in React using this repository as the base.
 
 The order of this should operate like a queue. (FIFO)
 
@@ -33,7 +34,15 @@ The order of this should operate like a queue. (FIFO)
 
 ![Item Checked off](https://github.com/matweaver7/todo_interview_app/blob/main/readme_images/todo_checked.png?raw=true)
 
-(Your solution does not need to look like the included examples, but can if you want.)
+# Customization
+
+Look and feel of the app can be customized as much as you want as long as all of the functional requirements in the instructions are met as specified.
+
+As an example, you can change the text of the buttons to what the most sense to you. You could also add extra functionality. Just make sure all requirements are met.
+
+You can also add any additional npm packages that you feel you need to accomplish the project.
+
+Let us know, either in your email or somehow in the app, if you added any extra functionality isn't super obvious so we don't miss it and can check it out.
 
 # Helpful Information
 
