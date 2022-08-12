@@ -8,7 +8,6 @@ const defaultFooter = () => {
                 <p className="float-right">This is an example project setup for your convenience.</p>
             </Container>
         </footer>
-        
     );
 }
 
